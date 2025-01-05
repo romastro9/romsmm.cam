@@ -1,0 +1,15 @@
+Cron Job By @SketchLeader_Sell
+
+1) wget --spider -O - https://aapkasmmstore.space/automations/cronjobs/autolike_c463dfc58a0ada8f746081b15e9777d2.php >/dev/null 2>&1
+
+2) wget --spider -O - https://aapkasmmstore.space/automations/cronjobs/average_59baa8226b6806d459212876cc69fd6b.php >/dev/null 2>&1
+
+3) wget --spider -O - https://aapkasmmstore.space/automations/cronjobs/autoreply_c1b01fbc39e138a53b52b1977c0a9e38.php >/dev/null 2>&1
+
+4) wget --spider -O - https://aapkasmmstore.space/automations/cronjobs/orders_d0ae3bdcc8687cf4afc35beadce9b9da.php >/dev/null 2>&1
+
+5) wget --spider -O - https://aapkasmmstore.space/automations/cronjobs/payments_44a39a7c53c3a177deb043ca6edf4f55.php >/dev/null 2>&1
+
+6) wget --spider -O - https://aapkasmmstore.space/automations/cronjobs/refill_14ad1f7f1a831e32a5722de5a902eeb6.php >/dev/null 2>&1
+
+7) wget --spider -O - https://aapkasmmstore.space/automations/cronjobs/seller-sync_4c0cb8cecbcfb5de188255356814af5f.php >/dev/null 2>&1
